@@ -1,0 +1,33 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+
+h1{
+  position:fixed;
+font-family: "Diatype Variable", Icons;
+	font-style: normal;
+	font-weight: 400;
+	padding: 0;
+	margin: 150px;
+	font-size: 3.8rem;
+	line-height: 1;
+	color: rgba(0, 0, 0, 0.85);
+	font-variation-settings: 'slnt' 0, 'MONO' 0;
+}
+
+p{
+  font-size: 1.5rem;
+	font-weight: 500;
+	color: rgba(0, 0, 0, 0.85);
+	font-family: "Diatype Variable", Icons;
+	font-style: normal;
+	line-height: 1.3;
+	font-variation-settings: 'slnt' 0, 'MONO' 0;
+  margin: 250px;
+  position:fixed;
+}

@@ -38,9 +38,10 @@ margin:-200px;
 
 h1{
   font-family: hanken;
+  font-size: 80px;
   color: rgb(238, 146, 161);
   position:fixed;
-  margin:20px 50px
+  margin:5px 50px
   
 }
 
@@ -69,4 +70,5 @@ font-family: "Diatype Variable", Icons;
 	color: rgba(0, 0, 0, 0.85);
 	font-variation-settings: 'slnt' 0, 'MONO' 0;
 }
+
 
